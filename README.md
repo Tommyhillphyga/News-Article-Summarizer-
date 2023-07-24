@@ -1,6 +1,5 @@
 # News-Article-Summarizer-With-LangChain
 
-📰✨ Streamlining News Reading with AI: Introducing the News Article Summarizer App! ✨📰
 In our fast-paced world, staying informed is crucial, but sifting through multiple news articles can be overwhelming and time-consuming. The News Article Summarizer app is designed to provide quick and concise summaries of news articles using cutting-edge AI technologies!
 
 🤖📑 How It Works
@@ -14,8 +13,10 @@ One of the standout features is its translation capability. The app allows you t
 
 
 # install dependencies
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 # To run App
-```streamlit run app.py
+```
+streamlit run app.py
 ```
