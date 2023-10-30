@@ -1,4 +1,4 @@
-# News-Article-Summarizer-With-LangChain
+# News-Article-Summarizer-With-GPT-3 and LangChain
 
 In our fast-paced world, staying informed is crucial, but sifting through multiple news articles can be overwhelming and time-consuming. The News Article Summarizer app is designed to provide quick and concise summaries of news articles using cutting-edge AI technologies!
 
@@ -11,6 +11,8 @@ No more reading lengthy articles to extract the key details! The News Article Su
 🌐🌍 Breaking Language Barriers
 One of the standout features is its translation capability. The app allows you to translate the summary into your preferred language, making it accessible and valuable to a global audience.
 
+# Getting started
+update the API keys in the .env file with your own.
 
 # install dependencies
 ```
